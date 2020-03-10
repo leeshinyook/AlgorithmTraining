@@ -20,15 +20,23 @@
 
 ### Recursion
 
-1. [subset](https://github.com/leeshinyook/AlgorithmTraining/blob/master/Recursion/subset.md)
+1. [Subset](https://github.com/leeshinyook/AlgorithmTraining/blob/master/Recursion/subset.md)
 
-2. [permutation](https://github.com/leeshinyook/AlgorithmTraining/blob/master/Recursion/permutation.md)
+2. [Permutation](https://github.com/leeshinyook/AlgorithmTraining/blob/master/Recursion/permutation.md)
 
-3. [backtracking](https://github.com/leeshinyook/AlgorithmTraining/blob/master/Recursion/BackTracking.md)
+3. [Backtracking](https://github.com/leeshinyook/AlgorithmTraining/blob/master/Recursion/BackTracking.md)
+
+
 
 ### DataStructure
 
-1. [STL](https://github.com/leeshinyook/AlgorithmTraining/blob/master/DataStructrue/STL.md)
+- [STL](https://github.com/leeshinyook/AlgorithmTraining/blob/master/DataStructrue/STL.md)
+
+
+
+### Search
+
+1. [BinarySearch](https://github.com/leeshinyook/AlgorithmTraining/blob/master/Search/binarySearch.md)
 
 
 
